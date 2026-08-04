@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Chmiel;Alan;;Dr.;
+FN:Dr. Alan Chmiel
+ORG:R.W. Beckett
+TITLE:Vice President of Engineering
+EMAIL;TYPE=INTERNET,WORK:achmiel@beckettcorp.com
+TEL;TYPE=WORK,VOICE:+14403536334
+TEL;TYPE=CELL,VOICE:+14402134671
+END:VCARD
